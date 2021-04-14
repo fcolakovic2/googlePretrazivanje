@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742290534000",
+    "project_id": "pretrazivanje-505bb",
+    "storage_bucket": "pretrazivanje-505bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742290534000:android:5799d1e887ac744c32ceb5",
+        "android_client_info": {
+          "package_name": "com.example.googlepretrazivac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742290534000-j2i2ado51k5v14eq5njjq5ldb3sjl52s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpWOw9ywXghprNegioZJqfigQK912RXvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742290534000-j2i2ado51k5v14eq5njjq5ldb3sjl52s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
